@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Bob\\Desktop\\MyTextChange\\missPreferential\\src\\main\\res\\layout\\sort_alllist_item.xml"
     },
     {
-        "merged": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\layout\\sort.xml",
-        "source": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\layout\\sort.xml"
-    },
-    {
         "merged": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_list_item.xml",
         "source": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\layout\\nearby_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\layout\\sort.xml",
+        "source": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\layout\\sort.xml"
     },
     {
         "merged": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\layout\\mine.xml",
@@ -68,12 +68,12 @@
         "source": "C:\\Users\\Bob\\Desktop\\MyTextChange\\missPreferential\\src\\main\\res\\layout\\businesse_information_detail.xml"
     },
     {
-        "merged": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\layout\\more.xml",
-        "source": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\layout\\more.xml"
-    },
-    {
         "merged": "C:\\Users\\Bob\\Desktop\\MyTextChange\\missPreferential\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_list_item.xml",
         "source": "C:\\Users\\Bob\\Desktop\\MyTextChange\\missPreferential\\src\\main\\res\\layout\\nearby_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\layout\\more.xml",
+        "source": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\layout\\more.xml"
     },
     {
         "merged": "C:\\Users\\Bob\\Desktop\\MyTextChange\\missPreferential\\build\\intermediates\\res\\merged\\debug\\layout\\nearby.xml",

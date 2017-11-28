@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Bob\\Desktop\\MyTextChange\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
         "source": "C:\\Users\\Bob\\Desktop\\MyTextChange\\missPreferential\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
     },

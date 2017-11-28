@@ -1,7 +1,19 @@
 [
     {
+        "merged": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test4.jpg",
+        "source": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\drawable-hdpi\\test4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hello_preferential.jpg",
+        "source": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\drawable-hdpi\\hello_preferential.jpg"
+    },
+    {
         "merged": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test1.jpg",
         "source": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\drawable-hdpi\\test1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test1.jpg",
+        "source": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\drawable-hdpi\\test1.jpg"
     },
     {
         "merged": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test4.jpg",
@@ -44,6 +56,18 @@
         "source": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\drawable-hdpi\\hello_preferential.jpg"
     },
     {
+        "merged": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test6.jpg",
+        "source": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\drawable-hdpi\\test6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test2.jpg",
+        "source": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\drawable-hdpi\\test2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test3.jpg",
+        "source": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\drawable-hdpi\\test3.jpg"
+    },
+    {
         "merged": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test5.jpg",
         "source": "C:\\Users\\Bob\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\drawable-hdpi\\test5.jpg"
     },
@@ -54,5 +78,9 @@
     {
         "merged": "C:\\Users\\Bob\\Desktop\\MyTextChange\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hello_preferential.jpg",
         "source": "C:\\Users\\Bob\\Desktop\\MyTextChange\\missPreferential\\src\\main\\res\\drawable-hdpi\\hello_preferential.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test5.jpg",
+        "source": "C:\\Users\\dubo\\Desktop\\smallProject\\missPreferential\\src\\main\\res\\drawable-hdpi\\test5.jpg"
     }
 ]
